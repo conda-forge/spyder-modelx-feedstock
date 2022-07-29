@@ -1,5 +1,5 @@
 {% set name = "spyder-modelx" %}
-{% set version = "0.12.0" %}
+{% set version = "0.13.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/spyder-modelx-{{ version }}.tar.gz
-  sha256: a8f413ba4838b954877377bc337f3f47e738d738c0103abcc90112e6a94e3f6f
+  sha256: e4c2274dda3a39902facd267ed225fe2faed81ce0ba1713fd38b9783c7796368
 
 build:
   noarch: python
