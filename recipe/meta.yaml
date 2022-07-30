@@ -37,7 +37,7 @@ about:
   home: https://github.com/fumitoh/spyder-modelx
   summary: Spyder plugin for modelx
   license: LGPL-3.0-only
-  license_file: LICENSE.LESSER.txt
+  license_file: LICENSE.txt
 
 extra:
   recipe-maintainers:
