@@ -4,3 +4,4 @@ libXtst
 libXcursor
 libXScrnSaver
 pciutils-libs
+libXrandr
