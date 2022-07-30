@@ -1,7 +1,7 @@
 mesa-libGL
+libXrandr
 libXcomposite
 libXtst
 libXcursor
 libXScrnSaver
 pciutils-libs
-libXrandr
