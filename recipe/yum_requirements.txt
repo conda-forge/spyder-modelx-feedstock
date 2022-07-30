@@ -1,5 +1,4 @@
 mesa-libGL
-libXrandr2
 libXcomposite
 libXtst
 libXcursor
