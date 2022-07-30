@@ -24,7 +24,7 @@ requirements:
     - python >=3.6
     - spyder >=4.0.0
     - spymx-kernels >=0.1.1
-    - pyqt == 5.9.2
+    - pyqt==5.9.2
 
 test:
   imports:
